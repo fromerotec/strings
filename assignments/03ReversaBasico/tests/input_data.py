@@ -6,21 +6,21 @@ input_values = [
     ( 
         ["Texto"], 
         ["Teclea una cadena de caracteres: ","OTXET"],
-        "Revisa como cambias los caracteres de la cadena de caracters."
+        "Revisa como cambias los caracteres de la cadena de caracteres."
     ),
     ( 
         ["Hola"], 
         ["Teclea una cadena de caracteres: ","ALOH"],
-        "Revisa como cambias los caracteres de la cadena de caracters."
+        "Revisa como cambias los caracteres de la cadena de caracteres."
     ),
     ( 
         ["saludos"], 
         ["Teclea una cadena de caracteres: ","SODULAS"],
-        "Revisa como cambias los caracteres de la cadena de caracters."
+        "Revisa como cambias los caracteres de la cadena de caracteres."
     ),
     ( 
         ["string"], 
         ["Teclea una cadena de caracteres: ","GNIRTS"],
-        "Revisa como cambias los caracteres de la cadena de caracters."
+        "Revisa como cambias los caracteres de la cadena de caracteres."
     )
 ]

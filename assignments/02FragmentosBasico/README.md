@@ -32,7 +32,6 @@ Ejemplo:
 
 ```
 Teclea una cadena de caracteres: Texto
-
 5
 T
 o

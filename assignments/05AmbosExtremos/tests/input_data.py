@@ -4,8 +4,8 @@
 
 input_values = [
     ( 
-        ["primavera"], 
-        ["","prra"],
-        "Revisa que tus datos de entrada y salida sean exactamente igual a los indicados en el README"
+        ["celular"], 
+        ["","cear"],
+        "Revisa que tus datos de entrada y salida sean exactamente iguales a los indicados en las instrucciones"
     )
 ]

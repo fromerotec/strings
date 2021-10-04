@@ -7,11 +7,11 @@ input_values = [
         ( 
             ["Anita lava la tina"], 
             ["","Es un palindromo"],
-            "Revisa que tus datos de entrada y salida sean exactamente igual a los indicados en el README"
+            "Revisa que tus datos de entrada y salida sean exactamente iguales a los indicados en las instrucciones"
         ),
         ( 
             ["Lava la tina"], 
             ["","NO es un palindromo"],
-            "Revisa que tus datos de entrada y salida sean exactamente igual a los indicados en el README"
+            "Revisa que tus datos de entrada y salida sean exactamente iguales a los indicados en las instrucciones"
         )
 ]

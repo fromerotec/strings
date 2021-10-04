@@ -26,8 +26,8 @@ Otro string formada por los primeros y últimos dos caracteres del string recibi
 La salida del programa debe de ser exactamente de la siguiente forma:
 
 ```
-primavera
-prra
+procesamiento
+prto
 ```
 
 **NOTA IMPORTANTE 1:** Tu programa NO debe incluir ningún mensaje para pedir los datos y la salida debe coincidir exactamente con el formato y/o tipo de dato que se te pide como salida.
